@@ -1,0 +1,52 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	background: grey;
+}
+h3{
+	text-align:center;
+	margin-top: 100px;
+}
+button,a
+{
+	border:1px solid black;
+	color:white;
+	background:orangered;
+	margin-top: 10px;
+	width:250px;
+	text-decoration: none;
+}
+.button
+{
+	text-decoration: center;
+}
+
+form
+{
+	  text-align: center;
+	   margin-top: 10px;
+}
+input
+{
+	margin-top: 10px;
+	width: 300px;
+	height: 50px;
+	border: 1px solid orange;
+}
+p,a
+{
+	text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
